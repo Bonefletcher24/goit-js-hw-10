@@ -54,7 +54,7 @@
 91C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\@parcel\diagnostic\src133561221085196900 1
 89C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\json5\lib\unicode.js133561221089418413 0
 118C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133561221097402065 0
-60C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\dist133561312001403263 1
+60C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\dist133561321088443519 1
 87C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\picocolors\LICENSE133561221083208117 0
 103C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\svgo\plugins\convertShapeToPath.js133561221092619754 0
 80C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\is-arrayish133561221088225254 1
@@ -1483,7 +1483,7 @@
 85C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\semver\README.md133561221088290299 0
 81C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\sass\LICENSE133561221084370211 0
 99C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\nth-check\lib\compile.d.ts.map133561221089099338 0
-82C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\dist\index.975ef6c8.js.map133561312001403263 0
+82C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\dist\index.975ef6c8.js.map133561321088363312 0
 86C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\sass\package.json133561221096959954 0
 91C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\@parcel\transformer-js133561221109420166 1
 106C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\@parcel\runtime-js\src\helpers\worker133561221095406294 1
@@ -4691,8 +4691,8 @@
 82C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\.bin\svgo.ps1133561221111156407 0
 80C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\.bin\terser133561221111156407 0
 84C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\node_modules\.bin\terser.ps1133561221111156407 0
-78C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\dist\index.975ef6c8.js133561312001403263 0
-71C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\dist\index.html133561312001403263 0
+78C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\dist\index.975ef6c8.js133561321088283074 0
+71C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\dist\index.html133561321086091741 0
 88C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\assets\actions-config-step-2.png133561204911956416 0
 80C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\assets\repo-settings.png133561204912620828 0
 84C:\Users\LENOVO\Documents\GitHub\js-10-hw\goit-js-hw-10\.github\workflows\deploy.yml133561319305388277 0
